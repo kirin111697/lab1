@@ -1,0 +1,16 @@
+Script started on 2016年03月01日 (週二) 20時22分46秒
+]0;F74046373@2015cpp: ~[01;32mF74046373@2015cpp[00m:[01;34m~[00m$ whoamo;pwd
+No command 'whoamo' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whoamo: command not found
+/home/F74046373
+]0;F74046373@2015cpp: ~[01;32mF74046373@2015cpp[00m:[01;34m~[00m$ whoamo;pwd[1P;pwdi;pwd
+F74046373
+/home/F74046373
+]0;F74046373@2015cpp: ~[01;32mF74046373@2015cpp[00m:[01;34m~[00m$ git config -1[Kl
+]0;F74046373@2015cpp: ~[01;32mF74046373@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kirin111697/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046373@2015cpp: ~[01;32mF74046373@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月01日 (週二) 20時25分14秒
